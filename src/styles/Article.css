@@ -1,0 +1,14 @@
+article {
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+article h3 {
+	text-transform: uppercase;
+}
+
+article span {
+	margin-bottom: 10px;
+	display: block;
+	font-size: 17px;
+}
